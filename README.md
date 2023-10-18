@@ -35,3 +35,4 @@ The above steps are modified and references from: http://wiki.ros.org/nao/Tutori
 
 ## Acknowledgment
 This tutorial is written by Timmy Lin. If you encounter any questions, please reach out to him via tinghan@uchicago.edu
+We thank Sarah for the original source code in ``hello_world.py``.
